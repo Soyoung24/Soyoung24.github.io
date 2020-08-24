@@ -16,6 +16,9 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+blog: true
+blog-external: true
+blog-url: https://sotudy.tistory.com/
 
 url: https://Soyoung24.github.io
 # your url: https://USERNAME.github.io
@@ -80,8 +83,8 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-blog-external: true
-blog-url: https://sotudy.tistory.com/
+#blog-external: true
+#blog-url: https://sotudy.tistory.com/
 
 # do you want to show the "read time" of the posts?
 read-time: true
