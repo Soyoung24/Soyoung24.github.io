@@ -33,7 +33,8 @@ picture: 'assets/images/profile.png'
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://sotudy.tistory.com/
+#https://google.com/?q=my+resume
 
 
 url: https://Soyoung24.github.io
