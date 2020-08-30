@@ -98,9 +98,14 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+#blog: false
 #blog-external: true
 #blog-url: 'https://sotudy.tistory.com/'
+
+tistoryblog: ture
+tistoryblog-external: true
+tistoryblog-url: https://sotudy.tistory.com/
+
 
 # do you want to show the "read time" of the posts?
 #read-time: true
