@@ -7,11 +7,9 @@
         {% endif %}
 
         {% if site.blog == true %}
-            {% if page.title != "Blog" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
-                </li>
-            {% endif %}
+            <li class="item">
+                <a class="link" href="{% if site.blog-external %}{{ site.blog-url }}{% else %}{{ site.url }}/{{ site.blog-url }}{% endif %}">Blog</a>
+            </li>
         {% endif %}
 
         {% if site.projects == true %}
