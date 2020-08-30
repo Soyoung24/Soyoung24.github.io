@@ -35,9 +35,6 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-blog: true
-blog-external: true
-blog-url: https://sotudy.tistory.com/
 
 url: https://Soyoung24.github.io
 # your url: https://USERNAME.github.io
@@ -52,9 +49,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+#disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -101,9 +98,9 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
-blog-external: true
-blog-url: 'https://sotudy.tistory.com/'
+blog: false
+#blog-external: true
+#blog-url: 'https://sotudy.tistory.com/'
 
 # do you want to show the "read time" of the posts?
 #read-time: true
