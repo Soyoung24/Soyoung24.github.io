@@ -23,6 +23,9 @@ layout: page
 
 <ul>
 	<li><a href="https://github.com/Soyoung24/TIL">Today I Learn: 매일 공부하는 것을 기록 (1일 1커밋)</a></li>
+	<li><a href="https://github.com/Soyoung24/">DCASE(논문 완성되면 올리기) </a></li>
+	<li>정기품질진단</li>
+
 </ul>
 
 
