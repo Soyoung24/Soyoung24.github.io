@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>안녕하세요!
-저는 중앙대학교 통계학을 공부하고 있는 대학원생입니다.
+저는 중앙대학교에서 통계학을 공부하고 있는 대학원생입니다.
 </p>
 
 
