@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "DCASE2020 challenge"
 layout: post
 date: 2020-08-30 23:12
 tag: project
