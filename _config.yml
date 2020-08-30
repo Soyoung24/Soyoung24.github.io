@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Welcome to SY home" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
+title                    : "Welcome to SY's home" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
 title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
 subtitle                 : "소영's 홈페이지" # 타이틀 아래에 나올 작은 글씨 
 name                     : "임소영" # 맨 하단 이름 찍히는 영역
